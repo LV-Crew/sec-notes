@@ -1,0 +1,29 @@
+DDoS and modern IT-Infrastructure
+
+Edit: 2018-06-02
+
+OK, here is Part II of ‘Why not dosing?’... ;-)
+Time to say something to ‘DDoS’ (Distributed-Denial-of-Service-Attack) and modern IT-Infrastructure...
+As I explained in “Why not dosing?”, a normal DoS doesn’t do what you may think it does...
+So why not make a DDoS ???
+So there ‘exist at least tools’ that claim to make a DDoS...
+Or, if you wanna have it easier, you can ‘rent/buy a DDoS-Attack in the Darknet’...
+So there is still the question: Why not make a DDoS ???
+Because: You should understand modern IT-Infrastructure!
+As I explained in “Why not dosing?”, some (D)DoS-Attacks can be handled by software on a web-server...
+...bigger attacks are more difficult to handle by the web-server...
+...and can lead to a “hang” of the server - what should be the goal of a DDoS!
+And there comes the modern IT-Infrastructure (modern IT) in the game!
+Modern IT like the ‘firewalls from Palo Alto Networks’ can handle a DDoS!
+So the best thing that can happen is, that the web-server is not reachable (as long, as you pay the DDoS)!
+A “crash” of the web-server is unlikely!
+The page(s) will be immediately up again, after you stop the DDoS!
+So what’s really happened: Not much !!! ^^
+
+
+
+https://www.facebook.com/notes/slim%C2%B2%C2%B3/why-not-dosing/1911671352198781/
+https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_DoS
+https://devcentral.f5.com/articles/anonymous-ddos-tools-2016-20386
+https://blog.radware.com/security/2017/03/cost-of-ddos-attack-darknet/
+https://live.paloaltonetworks.com/t5/Community-Blog/Distributed-Denial-of-Service-DDoS-what-can-I-do-to-protect/ba-p/143116

@@ -1,0 +1,21 @@
+Why does DDoS work for AnonGhost
+
+Edit: 2018-06-02
+
+OK, after we talked about ‘Why DDoS not work’, we can now talk about “Why does DDoS work for AnonGhost ???”... ^^ :D
+
+First, the targets:
+AnonGhost don’t target small pages/server, where a outage isn’t so bad, because the page have just some hundred visitors a day.
+
+Second, the size of the attack:
+AnonGhost coordinate the DDoS-Attacks in this way, that even web-sites with large infrastructure can’t handle it anymore!
+
+Third, the duration:
+Compared with a DDoS-Attack you can buy in the Darknet, that maybe takes an hour, AnonGhost have an eye on it that the outage is really long and really hurds the target!
+
+That’s the reasons, why DDoS (still) works for AnonGhost in Ops like ‘OpIsrael’.
+
+
+
+https://www.facebook.com/notes/slim%C2%B2%C2%B3/ddos-and-modern-it-infrastructure/1913342305365019/
+https://www.anonghost.info/opisrael.html

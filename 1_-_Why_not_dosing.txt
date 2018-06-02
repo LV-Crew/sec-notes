@@ -1,0 +1,38 @@
+Why not dosing
+
+Edit: 2018-05-31, 2018-06-02
+
+Why not dosing? It’s so easy!
+
+Because you should understand modern web-servers and modern IT-Infrastructure!
+Modern web-servers have a web-based ‘web-hosting-control-panel’ (WHCP) like ‘Plesk’ or even ‘cPanel’.
+In this WHCP is/or ‘can easily be installed’ a program called ‘Fail2ban’.
+Fail2ban is a ‘Intrusion prevention software’ (IPS).
+This IPS protects you from ‘brute-force attacks’.
+It also protects you from a (Distributed) ‘Denial of Service (attack)’ (dosing).
+Normally you run immediately in a so called “Jail”.
+If you be jailed means, that your ‘IP (address)’ comes on a blacklist and get further ignored (e.g. 24h).
+By this ‘blacklisting’ also your IP gets logged.
+This log can later be used by the police.
+If you don’t use a ‘Virtual Private Network’ for this, this can brings you in trouble.
+End if if you use it - besides that the server is _for_you_ not reachable - nothing happens!
+
+There would be more to say about Hardware-Firewalls and DDos-Protection, but maybe later more... ;-)
+
+Here is Part II, “DDoS and modern IT-Infrastructure”: https://www.facebook.com/notes/slim%C2%B2%C2%B3/ddos-and-modern-it-infrastructure/1913342305365019/
+
+Plz also read the comments with additional information in the original post! Thx!
+
+
+
+https://en.wikipedia.org/wiki/Web_hosting_control_panel
+https://en.wikipedia.org/wiki/Plesk
+https://en.wikipedia.org/wiki/CPanel
+https://en.wikipedia.org/wiki/Fail2ban
+http://www.digitalfaq.com/guides/webhosting/install-fail2ban-cpanel-pt1.htm
+https://en.wikipedia.org/wiki/Intrusion_prevention_system
+https://en.wikipedia.org/wiki/Brute-force_attack
+https://en.wikipedia.org/wiki/Denial-of-service_attack
+https://en.wikipedia.org/wiki/Blacklisting
+https://en.wikipedia.org/wiki/IP_address
+https://en.wikipedia.org/wiki/Virtual_private_network
