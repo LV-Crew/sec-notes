@@ -1,0 +1,15 @@
+Android Hacking Environment
+
+Edit: 2018-06-06
+
+VPN:
+https://play.google.com/store/apps/details?id=com.protonvpn.android
+https://play.google.com/store/apps/details?id=com.avira.vpn
+
+DoSer:
+https://play.google.com/store/apps/details?id=com.droidproject.ddos
+https://play.google.com/store/apps/details?id=com.ddos.avaliumsystems.ddos
+https://play.google.com/store/apps/details?id=com.genius.rifatrashid.loworbitioncannon
+https://play.google.com/store/apps/details?id=com.wFreeBooterv2_5864618
+https://play.google.com/store/apps/details?id=packetGenrator.edu.ae
+Sorry, I don't know where the differences are and if there exist other/better ones...
