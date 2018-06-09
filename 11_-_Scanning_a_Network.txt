@@ -1,0 +1,16 @@
+DRAFT
+
+11_-_Scanning_a_Network
+
+nmap
+
+Just scan with a ping!
+
+Complete Port-Scans run into a Fail2ban-Jail!
+
+Don't Brute-Force - because of Fail2ban!
+
+GUI for scanning:
+https://gbhackers.com/sparta-network-penetration-testing-gui-toolkit/
+http://sparta.secforce.com/
+https://github.com/secforce/sparta
