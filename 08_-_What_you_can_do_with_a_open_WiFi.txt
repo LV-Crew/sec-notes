@@ -1,0 +1,16 @@
+DRAFT
+
+What_you_can_do_with_a_open_WiFi
+
+As said in 06_-_Wardriving_with_Android you can:
+- Participate to a DDoS
+- Hack other Networks
+- Hack the Network of the WiFi
+
+We now 'hack' the Network... ^^
+
+Avira Home Guard
+Mocha Ping Lite
+RD Client
+Mocha Telnet Lite
+ConnectBot (ssh-agent-patch)

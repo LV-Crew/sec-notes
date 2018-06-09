@@ -1,0 +1,11 @@
+DRAFT
+
+Why Kali
+
+Use Kali not Windows!
+
+MS in the past...
+Office-Documents...
+
+Run it in a VM...
+VirtualBox

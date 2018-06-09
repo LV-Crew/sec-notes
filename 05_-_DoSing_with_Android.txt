@@ -1,10 +1,11 @@
+DRAFT
+
+Was: 101_-_Android_Hacking_Environment
+
 Android Hacking Environment
+DoSing_with_Android
 
-Edit: 2018-06-06
-
-VPN:
-https://play.google.com/store/apps/details?id=com.protonvpn.android
-https://play.google.com/store/apps/details?id=com.avira.vpn
+Edit: 2018-06-06, 2018-06-09
 
 DoSer:
 https://play.google.com/store/apps/details?id=com.droidproject.ddos
