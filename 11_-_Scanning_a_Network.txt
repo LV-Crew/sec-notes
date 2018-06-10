@@ -1,8 +1,10 @@
 DRAFT
 
-11_-_Scanning_a_Network
+Scanning a Network
 
-nmap
+Edit: 2018-06-10
+
+Nmap
 
 Just scan with a ping!
 
@@ -14,3 +16,5 @@ GUI for scanning:
 https://gbhackers.com/sparta-network-penetration-testing-gui-toolkit/
 http://sparta.secforce.com/
 https://github.com/secforce/sparta
+
+https://www.metasploit.com/

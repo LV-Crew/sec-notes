@@ -2,6 +2,8 @@ DRAFT
 
 Why Kali
 
+Edit: 2018-06-10
+
 Use Kali not Windows!
 
 MS in the past...
@@ -9,3 +11,8 @@ Office-Documents...
 
 Run it in a VM...
 VirtualBox
+
+You can even use a Kali 'VM' on ANdroid!
+
+https://www.kali.org/tutorials/kali-linux-android-linux-deploy/
+https://play.google.com/store/apps/details?id=ru.meefik.linuxdeploy
