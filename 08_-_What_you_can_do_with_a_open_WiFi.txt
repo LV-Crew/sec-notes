@@ -2,7 +2,7 @@ DRAFT
 
 What you can do with a open WiFi
 
-Edit: 2018-06-10
+Edit: 2018-06-10, 2018-06-15
 
 As said in 06_-_Wardriving_with_Android you can:
 - Participate to a DDoS
@@ -13,9 +13,12 @@ We now "hack" the Network... ^^
 
 For an easy look into the netwok you can use 'Avira Home Guard', what shows you the devices in the network.
 You can use 'Mocha Ping Lite' to just ping every IP-Address in the network to see where a device is answering.
+'IP Tools'
 You can also use the famous Nmap-Tool on Android.
 Nmap needs, if you want to have all functions of the tool (i.e. no OS fingerprinting, SYN scan, etc) a rooted device.
 You can use 'Network Mapper' to install Nmap and give him a GUI.
+
+'Droidbug Pentesting & Forencis'
 
 http://resources.infosecinstitute.com/android-phone-pentesting/
 
