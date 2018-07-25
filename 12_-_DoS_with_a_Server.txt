@@ -1,0 +1,8 @@
+DRAFT
+
+DoS with a Server
+
+Edit: 2018-07-25
+
+DoS with 'bind':
+https://www.hosteurope.de/faq/server/sicherheit-spam/risikopotenzial-bind/
